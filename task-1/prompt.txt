@@ -1,0 +1,9 @@
+Hi, you are a database professional. I need to build a platform with the following requirements:
+1. It should be able to handle millions of users.
+2. Need to store profiles, posts, and connections between users
+3. High data read speed required
+4. Expected 80% read operations, 20% write operations
+5. Scalability is important as the user base grows
+
+Analyze these requirements and offer me the best choice of database (SQL, NO-SQL etc.).
+Apply Chain-of-Thought reasoning approach in your answer.
